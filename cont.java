@@ -5,6 +5,7 @@ public class cont {
             if(i==4){
                 i++;
                 continue;
+                break;
             }
             System.out.println(i);
             i++;
