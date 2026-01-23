@@ -1,4 +1,4 @@
-package strings;
+package strings;sf
 import java.util.Scanner;
 
 public class Scannerinput {
@@ -55,6 +55,7 @@ public class Scannerinput {
 
     }
 }
+
 
 
 
