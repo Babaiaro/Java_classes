@@ -41,6 +41,7 @@ public class Scannerinput {
 
         System.out.print("You are "+ yourage + " years old ");
         System.out.print("You like "+ colour+" color");
+        sout
 
 
 
@@ -55,6 +56,7 @@ public class Scannerinput {
 
     }
 }
+
 
 
 
