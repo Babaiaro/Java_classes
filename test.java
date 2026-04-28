@@ -1,13 +1,12 @@
 public class test {
-    public static void main(String arg[]){
-        int x = 30;
+    public static void main (String[] args){
+        int a, b;
+        a = 10;
+        b = (a == 1) ? 20 : 30;
+        System.out.println("Value of b is :" + b);
 
-        if(x<30){
-            System.out.println("it is smaller than 30");
-        }
-        else {
-            System.out.println("it is equal or more than 30");
-        }
+        b = (a == 10) ? 20 : 30;
+        System.out.println("Value if b is : " + b);
     }
-
+    
 }
